@@ -8,6 +8,7 @@ public class HelloWorld {
         System.out.println("f");
 
         System.out.println("Cześć. Działa");
+        System.out.println("Git program");
 
     }
 }
